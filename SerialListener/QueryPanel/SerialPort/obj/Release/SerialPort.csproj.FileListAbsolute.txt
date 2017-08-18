@@ -1,0 +1,3 @@
+\\odin\raid\Projects\Adruino LightPanel\Src\SerialListener\QueryPanel\SerialPort\bin\Release\SerialPort.dll
+\\odin\raid\Projects\Adruino LightPanel\Src\SerialListener\QueryPanel\SerialPort\obj\Release\SerialPort.csprojResolveAssemblyReference.cache
+\\odin\raid\Projects\Adruino LightPanel\Src\SerialListener\QueryPanel\SerialPort\obj\Release\SerialPort.dll

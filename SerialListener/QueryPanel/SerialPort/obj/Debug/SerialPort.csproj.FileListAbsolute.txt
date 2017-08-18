@@ -1,0 +1,5 @@
+\\odin\raid\Projects\Adruino LightPanel\Src\SerialListener\QueryPanel\SerialPort\bin\Debug\SerialPort.dll
+\\odin\raid\Projects\Adruino LightPanel\Src\SerialListener\QueryPanel\SerialPort\bin\Debug\SerialPort.pdb
+\\odin\raid\Projects\Adruino LightPanel\Src\SerialListener\QueryPanel\SerialPort\obj\Debug\SerialPort.csprojResolveAssemblyReference.cache
+\\odin\raid\Projects\Adruino LightPanel\Src\SerialListener\QueryPanel\SerialPort\obj\Debug\SerialPort.dll
+\\odin\raid\Projects\Adruino LightPanel\Src\SerialListener\QueryPanel\SerialPort\obj\Debug\SerialPort.pdb

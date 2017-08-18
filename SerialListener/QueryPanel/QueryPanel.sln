@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueryPanel", "QueryPanel\QueryPanel.csproj", "{5540F28A-F9D1-4BD3-A003-12E17BB03DC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerialPort", "SerialPort\SerialPort.csproj", "{23899525-3670-4E2C-B1FF-7DA6DF1CDC58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5540F28A-F9D1-4BD3-A003-12E17BB03DC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5540F28A-F9D1-4BD3-A003-12E17BB03DC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5540F28A-F9D1-4BD3-A003-12E17BB03DC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5540F28A-F9D1-4BD3-A003-12E17BB03DC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23899525-3670-4E2C-B1FF-7DA6DF1CDC58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23899525-3670-4E2C-B1FF-7DA6DF1CDC58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23899525-3670-4E2C-B1FF-7DA6DF1CDC58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23899525-3670-4E2C-B1FF-7DA6DF1CDC58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

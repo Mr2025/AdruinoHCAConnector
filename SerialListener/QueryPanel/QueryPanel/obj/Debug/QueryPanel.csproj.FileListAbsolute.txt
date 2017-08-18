@@ -1,0 +1,8 @@
+\\odin\raid\Projects\Adruino LightPanel\Src\SerialListener\QueryPanel\QueryPanel\bin\Debug\QueryPanel.exe.config
+\\odin\raid\Projects\Adruino LightPanel\Src\SerialListener\QueryPanel\QueryPanel\bin\Debug\QueryPanel.exe
+\\odin\raid\Projects\Adruino LightPanel\Src\SerialListener\QueryPanel\QueryPanel\bin\Debug\QueryPanel.pdb
+\\odin\raid\Projects\Adruino LightPanel\Src\SerialListener\QueryPanel\QueryPanel\bin\Debug\SerialPort.dll
+\\odin\raid\Projects\Adruino LightPanel\Src\SerialListener\QueryPanel\QueryPanel\bin\Debug\SerialPort.pdb
+\\odin\raid\Projects\Adruino LightPanel\Src\SerialListener\QueryPanel\QueryPanel\obj\Debug\QueryPanel.csprojResolveAssemblyReference.cache
+\\odin\raid\Projects\Adruino LightPanel\Src\SerialListener\QueryPanel\QueryPanel\obj\Debug\QueryPanel.exe
+\\odin\raid\Projects\Adruino LightPanel\Src\SerialListener\QueryPanel\QueryPanel\obj\Debug\QueryPanel.pdb
